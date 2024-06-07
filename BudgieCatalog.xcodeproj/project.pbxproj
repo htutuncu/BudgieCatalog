@@ -13,6 +13,7 @@
 		CFF83F252C135DA6002DFEEF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CFF83F242C135DA6002DFEEF /* Base */; };
 		CFF83F272C135DA6002DFEEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFF83F262C135DA6002DFEEF /* Assets.xcassets */; };
 		CFF83F2A2C135DA6002DFEEF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CFF83F292C135DA6002DFEEF /* Base */; };
+		CFF83F322C136350002DFEEF /* BudgieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF83F312C136350002DFEEF /* BudgieViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CFF83F262C135DA6002DFEEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFF83F292C135DA6002DFEEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CFF83F2B2C135DA6002DFEEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFF83F312C136350002DFEEF /* BudgieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgieViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CFF83F262C135DA6002DFEEF /* Assets.xcassets */,
 				CFF83F282C135DA6002DFEEF /* LaunchScreen.storyboard */,
 				CFF83F2B2C135DA6002DFEEF /* Info.plist */,
+				CFF83F312C136350002DFEEF /* BudgieViewController.swift */,
 			);
 			path = BudgieCatalog;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFF83F322C136350002DFEEF /* BudgieViewController.swift in Sources */,
 				CFF83F222C135DA6002DFEEF /* ViewController.swift in Sources */,
 				CFF83F1E2C135DA6002DFEEF /* AppDelegate.swift in Sources */,
 				CFF83F202C135DA6002DFEEF /* SceneDelegate.swift in Sources */,
